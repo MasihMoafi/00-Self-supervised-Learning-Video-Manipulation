@@ -1,11 +1,11 @@
-### Co-segmentation-based Video Editing Project
+## Co-segmentation-based Video Editing Project
 
 
-## Acknowledgements
+### Acknowledgements
 
 This project is based on the research paper, "Motion Supervised co-part Segmentation," by Aliaksandr Siarohin and his team, and extensively uses the code from the motion-cosegmentation repository. The original code and repository can be found here. https://github.com/AliaksandrSiarohin/motion-cosegmentation/tree/master
 
-## Description
+### Description
 
 The project's aim was to adapt this codebase to a unique application: creating a custom video editing pipeline to swap specific parts in a video (e.g., eyes, hair, and lips) using the co-segmentation method. The custom application allowed us to identify and change specific features in video sequences, given an input source image.
 
@@ -13,7 +13,7 @@ The co-segmentation technique relies on a self-supervised deep learning method. 
 
 This project was undertaken over a span of a week and was successfully executed on a local machine. During the process, several issues were encountered and resolved, providing rich learning experience on deploying deep learning models, handling dependencies, troubleshooting errors, and enhancing the performance.
 
-## Prerequisites
+### Prerequisites
 
 The project was executed on a local machine with the following specifications:
 
@@ -22,7 +22,7 @@ The project was executed on a local machine with the following specifications:
     torch 1.10.0
     scikit-image 0.18.0
     
-## Results
+### Results
 
 The result of the project is a video sequence where specified parts (as per the swap index) are replaced with corresponding parts from the source image. The performance of the result can vary based on the source image and video used, and the model's ability to identify the parts to be replaced.
 
