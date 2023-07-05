@@ -3,7 +3,8 @@
 
 ### Acknowledgements
 
-This project is based on the research paper, "Motion Supervised co-part Segmentation," by Aliaksandr Siarohin and his team, and extensively uses the code from the motion-cosegmentation repository. The original code and repository can be found here. https://github.com/AliaksandrSiarohin/motion-cosegmentation/tree/master
+This project is based on the research paper, "Motion Supervised co-part Segmentation," by Aliaksandr Siarohin and his team, and extensively uses the code from the motion-cosegmentation repository. The original code and repository can be found here. https://github.com/AliaksandrSiarohin/motion-cosegmentation/tree/master. For the first-order-model demo refer to:
+https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb?authuser=1#scrollTo=Oxi6-riLOgnm
 
 ### Description
 
