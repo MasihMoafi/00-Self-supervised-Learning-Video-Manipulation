@@ -24,5 +24,16 @@ The project was executed on a local machine with the following specifications:
     
 ### Results
 
+https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/d3cbec66-2d60-4b58-afda-272bb459a1d7
+
+https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/15ce2296-345b-4b99-ac8a-f92deb61689a
+
+https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/595fa98b-ef62-452d-9f4f-0b8cda3ab999
+
+https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/faba3824-2743-4fc0-b0af-59d81126eb69
+
+
 The result of the project is a video sequence where specified parts (as per the swap index) are replaced with corresponding parts from the source image. The performance of the result can vary based on the source image and video used, and the model's ability to identify the parts to be replaced.
+
+
 
