@@ -1,5 +1,4 @@
-## Co-segmentation-based Video Editing Project
-
+## First order model and Co-segmentation-based Video Editing Project
 
 ### Acknowledgements
 
@@ -8,9 +7,11 @@ https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/bl
 
 ### Description
 
-The project's aim was to adapt this codebase to a unique application: creating a custom video editing pipeline to swap specific parts in a video (e.g., eyes, hair, and lips) using the co-segmentation method. The custom application allowed us to identify and change specific features in video sequences, given an input source image.
+The project's aim was to adapt this codebase to a unique application: creating a custom video editing pipeline to swap specific parts in a video (e.g., eyes, hair, and lips) using the co-segmentation method and face-swapping using the First order motion model. The custom application allowed us to identify and change specific features in video sequences, given an input source image.
 
-The co-segmentation technique relies on a self-supervised deep learning method. By leveraging motion information inferred from videos, it is able to discover and replace specific parts of objects (in this case, facial features).
+    "First Order Motion Model for Image Animation": This model is used to animate still images based on a driving video. The model employs a self-supervised approach to learn the motion dynamics from unlabeled videos. It then applies these dynamics to animate novel images.
+
+    "Motion Co-segmentation": The method performs co-segmentation, i.e., it separates the foreground and background, taking into account the motion of the foreground object. This allows for more accurate segmentation in the presence of similar colors or textures in the foreground and background.
 
 This project was undertaken over a span of a week and was successfully executed on a local machine. During the process, several issues were encountered and resolved, providing rich learning experience on deploying deep learning models, handling dependencies, troubleshooting errors, and enhancing the performance.
 
