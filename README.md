@@ -40,11 +40,7 @@ https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/faba3824-2
 
 https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/595fa98b-ef62-452d-9f4f-0b8cda3ab999
 
-The result of the project is a video sequence where specified parts (as per the swap index) are replaced with corresponding parts from the source image. The performance of the result can vary based on the source image and video used, and the mo
-
-https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/14a311ab-dab7-467f-9302-d8da95b2ea6f
-
-del's ability to identify the parts to be replaced.
+The result of the project is a video sequence where specified parts (as per the swap index) are replaced with corresponding parts from the source image. The performance of the result can vary based on the source image and video used, and the moNdel's ability to identify the parts to be replaced.
 
 
 
