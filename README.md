@@ -27,10 +27,13 @@ The project was executed on a local machine with the following specifications:
 ### Results
 
 https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/d3cbec66-2d60-4b58-afda-272bb459a1d7
-![crazy](https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/16f864b3-62e6-47d4-9f2f-4de5b0786bba)
 
 
 https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/1552acbb-7845-4c34-ac8d-8242762b14f0
+
+
+Uploading scaled(9(.mp4…
+
 
 
 https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/faba3824-2743-4fc0-b0af-59d81126eb69
