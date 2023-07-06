@@ -32,11 +32,7 @@ https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/1552acbb-7
 
 https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/faba3824-2743-4fc0-b0af-59d81126eb69
 
+https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/fa95ebba-1602-4303-a555-0d5a0caa14df
+
+
 The result of the project is a video sequence where specified parts (as per the swap index) are replaced with corresponding parts from the source image. The performance of the result can vary based on the source image and video used, and the moNdel's ability to identify the parts to be replaced.
-
-
-
-https://github.com/MasihMoafi/NEW---Co-segmentation-/assets/132553157/b89bfae2-6bc5-4456-b827-d3f229eaf17a
-
-
-
