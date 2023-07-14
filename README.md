@@ -1,5 +1,5 @@
 
-### Co-segmentation-based Video Editing Project
+## Co-segmentation-based Video Editing Project
 
 This project is a custom video editing pipeline that uses co-segmentation and face-swapping techniques to swap specific parts in a video (e.g., eyes, hair, and lips) with corresponding parts from a source image.
 
