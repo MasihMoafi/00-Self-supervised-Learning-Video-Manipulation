@@ -1,4 +1,4 @@
-## First order model and Co-segmentation-based Video Editing Project
+Co-segmentation-based Video Editing Project
 
 ### Acknowledgements
 
